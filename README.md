@@ -216,8 +216,3 @@ data_quality_log
 
 ---
 
-## Équipe
-
-Projet réalisé dans le cadre du module **Architecture de données**  
-Réalisé par : Mehdi Moussaid / Badr Elhannak / Oussama Oulkaid
----
